@@ -1,0 +1,194 @@
+*{
+    margin-top: 0;
+}
+.FistPart{
+    background-image: url(../images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+   
+   
+    margin-top: 0 ;
+    padding: 164px 182px 175px 296px;
+    text-align: center;
+
+}
+.section-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #fff;
+}
+.section-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+}
+.Button1{
+margin-top: 10px;
+width: 160px;
+height: 56px;
+left: 640px;
+top: 438px;
+
+background: #FF5959;
+border-radius: 5px;
+}
+.Donate{
+   text-align: center ;
+   margin: top 799px;
+}
+.section-title1{
+    margin-top: 100px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    
+    
+
+}
+.section-description1{
+    color: #707070;
+    margin-bottom: 50px;
+   
+}
+.list{
+    display:flex;
+    gap :24px;
+    justify-content: space-evenly;
+}
+.donate-ammount:hover{
+    background-color:#D9D9D9;
+}
+.donate-ammount{
+    background: #FAFAFA;
+    border-radius: 5px;
+    width: 135px;
+    height: 100px ;
+    text-align: center;
+    padding: 45px 22px;
+    margin-bottom: 50px;
+}
+.donatePlane{
+    display:flex;
+    gap :24px;
+    justify-content: space-evenly;
+
+}
+.plan1{
+
+width: 360px;
+height: 352px;
+background: rgba(79, 157, 166, 0.1);
+border-radius: 5px;
+padding-left: 23px;
+padding-top: 63px;
+
+}
+.plan2{
+
+    width: 360px;
+    height: 352px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+    padding-left: 23px;
+    padding-top: 63px;
+    }
+    .plan3{
+
+        width: 360px;
+        height: 352px;
+        background: rgba(79, 157, 166, 0.1);
+        background: #FFF4D6;
+        padding-left: 23px;
+        padding-top: 63px;
+        
+        }
+        .our-donate-plan{
+            text-align: center;
+        }
+    .demo{
+        display: flex;
+        gap :24px;
+        align-items :center;
+    }
+    .img-demo{
+        width: 45%;
+        
+        padding: 100px;
+    }
+    .img11{
+        width: 456px;
+         height: 477px;
+        
+
+    }
+    .text{
+        margin-left: 156px;
+        
+    }
+    .Button2{
+margin-top: 10px;
+width: 200px;
+height: 56px;
+left: 640px;
+top: 438px;
+background: #FF5959;
+border-radius: 5px;
+
+    }
+    .demo2{
+        display: flex;
+        gap :50px;
+        align-items :center;
+    }
+    .text1{
+        margin-right: 250px;
+        margin-left: 100px;
+        padding-left: 100px;
+        
+    }
+    .email{
+        text-align: center;
+    }
+    .Update{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .subscribe{
+        width: 809px;
+        height: 200px;
+        background: #FFF4D6;
+        margin-left: 550px;
+        font-display: flex;
+        gap: 0;
+        padding-top: 100px;
+    }
+    .input1{
+        background: #D9D9D9;
+        width: 275px;
+        height: 48px;
+    }
+    .end{
+        margin-bottom: 0;
+        height: 177px;
+    }
+    .fot{
+        background-color: #0B0D17;
+        height: 177px;
+        width: 100%;
+        margin-top: 50px ;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: center;
+    }
+    .humble{
+        color:#FF5959;
+        padding-top: 50px;
+
+    }
+    .line {
+        width: 765px;
+    }
+
+   
